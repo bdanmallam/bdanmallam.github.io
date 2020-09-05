@@ -1,4 +1,4 @@
-name: "my-website"
+name: "bellos-website"
 output_dir: "."
 navbar:
   title: "My Website"
@@ -7,3 +7,11 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Projects"     ##### the new
+      href: project.html  ##### stuff
+    - text: "Curriculum Vitae"
+      href: cv.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css

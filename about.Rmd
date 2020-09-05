@@ -2,4 +2,14 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ DANMALLAM, Bello Adamu
+- __Ocupation:__ "Student"
+- __Interest:__ I am an Applied Ecologist with a strong interest in GIS & remote sensing and data science|brids and birdstrike risk assessment. 
+
+Here is a super cool photo of me during my Master's thesis defence
+
+![APLORI 2020](me_aplori.jpeg)
+
+
+
+
