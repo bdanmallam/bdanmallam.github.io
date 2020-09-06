@@ -1,7 +1,7 @@
 name: "bellos-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "DANMALLAM BELLO ADAMU"
   left:
     - text: "Home"
       href: index.html
@@ -11,6 +11,8 @@ navbar:
       href: project.html  ##### stuff
     - text: "Curriculum Vitae"
       href: cv.html
+    - text: "Contact"
+      href: contact.html      
 output:
   html_document:
     theme: flatly
