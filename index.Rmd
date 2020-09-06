@@ -2,4 +2,4 @@
 title: "WELCOME!"
 ---
 
-![Brandon](falcon.jpg)
+![Photo credit: Brandon](falcon.jpg)

@@ -4,9 +4,7 @@ title: "About Me"
 
 - __Name:__ DANMALLAM, Bello Adamu
 - __Occupation:__ "Student"
-- __Interest:__ I am an Applied Ecologist with a strong interest in GIS & remote sensing and data science | Brids and Birdstrike Risk Assessment. 
-
-Here is a super cool photo of me during my Master's thesis defence
+- __Interest:__ I am research-oriented and very enthusiastic about eduction. I honestly believe that no research question is too complex, and knowledge and research outcomes are meant to be communicated in a simple and engaging way to a wide audience.I have a strong interest in GIS & remote sensing, data science, birds and birdstrike risk assessment. 
 
 ![APLORI 2020](me_aplori.jpeg)
 
