@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Welcome!"
+urlcolor: blue
 ---
 
-![](welcome.jpg)
+![©Brandon birder](falcon.jpg)
 
 
 

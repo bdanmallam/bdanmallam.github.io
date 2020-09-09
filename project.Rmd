@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+urlcolor: blue
 ---
 
 # Publications, Conferences, and Talks

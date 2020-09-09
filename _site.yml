@@ -2,7 +2,7 @@ name: "DANMALLAM BELLO"                                # CHANGE HERE
 output_dir: "."
 navbar:
   title: "DANMALLAM BELLO ADAMU "                             # CHANGE HERE 
-  type: inverse
+  type: default
   left:
     - text: "HOME"
       icon: fa-home
@@ -14,6 +14,9 @@ navbar:
       icon: fa-book 
       href: project.html
     - text: "CV"
+      icon: fa-file-pdf
+      href: resume.html
+    - text: "Download"
       icon: fa-file-pdf
       href: cv.html
   right:
@@ -30,7 +33,6 @@ navbar:
 output:
   html_document:
     theme: darkly
-    highlight: textmate
     include:
       after_body: footer.html
     css: styles.css
