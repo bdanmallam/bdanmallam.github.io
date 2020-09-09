@@ -1,9 +1,8 @@
 ---
-title: "Publications"
+title: "Publications, Conferences, and Talks"
 urlcolor: blue
 ---
 
-# Publications, Conferences, and Talks
 
 - Evaluation of Vegetation Characteristics and Habitat Utilization by Birds in some Airports in Nigeria (Unpublished master's thesis). *A. P. Leventis Ornithological Research Institute, University of Jos, Nigeria* 
 
