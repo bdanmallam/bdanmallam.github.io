@@ -1,19 +1,36 @@
-name: "bellos-website"
+name: "DANMALLAM BELLO"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "DANMALLAM BELLO ADAMU"
+  title: "DANMALLAM BELLO ADAMU "                             # CHANGE HERE 
+  type: inverse
   left:
-    - text: "Home"
+    - text: "HOME"
+      icon: fa-home
       href: index.html
     - text: "About Me"
+      icon: fa-user 
       href: about.html
-    - text: "Projects"     ##### the new
-      href: project.html  ##### stuff
-    - text: "Curriculum Vitae"
+    - text: "Publications"
+      icon: fa-book 
+      href: project.html
+    - text: "CV"
+      icon: fa-file-pdf
       href: cv.html
-    - text: "Contact"
-      href: contact.html      
+  right:
+    - text: "Email"
+      icon: fa-envelope-o
+      href: mailto:adamubello001@gmail.com                    # CHANGE HERE 
+    - text: "Twitter"
+      icon: ion-social-twitter
+      href: https://twitter.com/BelloDanmallam1?s=08       # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/bdanmallam       # CHANGE HERE 
+
 output:
   html_document:
-    theme: flatly
-    css: style.css
+    theme: darkly
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
