@@ -4,7 +4,8 @@ urlcolor: blue
 ---
 
 
-- Evaluation of Vegetation Characteristics and Habitat Utilization by Birds in some Airports in Nigeria (Unpublished master's thesis). *A. P. Leventis Ornithological Research Institute, University of Jos, Nigeria*  <a href="MSc Defense ppt__Danmallam Bello Adamu.pdf#" class="fas fa-download" title="Download presentation as PDF">Download presentation</a>
+- Evaluation of Vegetation Characteristics and Habitat Utilization by Birds in some Airports in Nigeria (Unpublished master's thesis). *A. P. Leventis Ornithological Research Institute, University of Jos, Nigeria* 
+
 
 - COVID-19 Outbreak: Environmental and Socioeconomic Impacts, a Win-Lose Scenerio? (Manuscript in preparation)
 
@@ -18,5 +19,5 @@ urlcolor: blue
 - Microbes as Agents for Addressing Economic & Security Challenges. *40th Scientific Conference & Annual General Meeting of Nigerian Society for Microbiology, Bauchi, 2017*
 
 
-- Presentation: Value Clarification Promotes a Healthier Future. *The 1st Regional Education Summit on HIV/AIDs in Africa (RESHAA) and Youth Speak out on Reproductive Health. Federal Ministry of Education Abuja, 2011*
+- Presentation: Value Clarification Promotes a Healthier Future. *The 1st Regional Education Summit on HIV/AIDs in Africa (RESHAA) and Youth Speak out Conference on Reproductive Health. Federal Ministry of Education Abuja, 2011*
 
