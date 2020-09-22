@@ -1,7 +1,7 @@
 name: "DANMALLAM BELLO"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "DANMALLAM BELLO ADAMU "                             # CHANGE HERE 
+  title: "DANMALLAM BELLO ADAMU"                             # CHANGE HERE 
   type: default
   left:
     - text: "HOME"
@@ -18,6 +18,9 @@ navbar:
     - text: "Download"
       icon: fa-file-pdf
       href: cv.html
+    - text: "Blog"
+      icon: fas fa-blog
+      href: Blog.html
   right:
     - text: "Email"
       icon: fa-envelope-o
