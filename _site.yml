@@ -7,9 +7,6 @@ navbar:
     - text: "HOME"
       icon: fa-home
       href: index.html
-    - text: "About Me"
-      icon: fa-user 
-      href: about.html
     - text: "Publications"
       icon: fa-book 
       href: project.html
@@ -35,6 +32,7 @@ navbar:
 output:
   html_document:
     theme: darkly
+    highlight: textmate
     include:
       after_body: footer.html
     css: styles.css
