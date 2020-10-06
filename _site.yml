@@ -1,7 +1,7 @@
 name: "DANMALLAM BELLO"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "<img id=\"logo\" style=\"width: 100px;\" src=\"dba2.jpeg\" />"                             # CHANGE HERE 
+  title: "<img id=\"logo\" style=\"width: 140px;\" src=\"dba2.jpeg\" />"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "HOME"

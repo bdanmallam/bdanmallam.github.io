@@ -2,7 +2,7 @@
 title: ""
 urlcolor: blue
 ---
-<br>
+
 __Danmallam Bello Adamu | Applied Ecology__
 
 ![](field2.jpg)
