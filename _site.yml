@@ -2,7 +2,7 @@ name: "DANMALLAM BELLO"                                # CHANGE HERE
 output_dir: "."
 navbar:
   title: "DANMALLAM BELLO ADAMU"                             # CHANGE HERE 
-  type: default
+  type: inverse
   left:
     - text: "HOME"
       icon: fa-home
