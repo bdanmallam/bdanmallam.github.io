@@ -3,7 +3,7 @@ title: ""
 urlcolor: blue
 ---
 
-__Danmallam Bello Adamu | Applied Ecology__
+__Applied Ecology__
 ----
 ******
 
