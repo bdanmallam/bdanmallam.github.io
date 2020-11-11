@@ -1,7 +1,7 @@
 name: "DANMALLAM BELLO"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "<img id=\"logo\" style=\"width: 90px;\" src=\"dba2.jpeg\" />"                             # CHANGE HERE 
+  title: ""                             # CHANGE HERE 
   type: inverse
   left:
     - text: "HOME"
@@ -31,7 +31,7 @@ navbar:
 
 output:
   html_document:
-    theme: readable
+    theme: darkly
     highlight: textmate
     include:
       after_body: footer.html
