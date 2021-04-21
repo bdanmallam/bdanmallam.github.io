@@ -1,9 +1,8 @@
 ---
-title: "Home"
+title: "Applied Ecology and Conservation"
 urlcolor: blue
 ---
 
-__Applied Ecology__
 ----
 ******
 
@@ -12,13 +11,16 @@ __Applied Ecology__
 
 ## About
 
-I obtained my bachelor’s degree in Applied Ecology from Abubakar Tafawa Balewa University, Bauchi, Nigeria; and a master's degree in conservation Biology from the prestigious [A.P. Leventis Ornithological Research Institute (APLORI)](http://aplori.org). 
-Prior to obtaining these degrees, I had the privilege to be an intern at the [APLORI](http://aplori.org), assisting in many types of ecological research. I did my National Youth Service (NYSC) teaching biology-related courses at Federal College of Education (FCE), Katsina, Nigeria. During this period, I also volunteered to create awareness on Sustainable Development Goals (SDGs) with the NYSC/SDGs Community Development Service (CDS) group, as a member and later the Secretary-General of the CDS group. Immediately after my NYSC, I got a sponsorship for a master's degree at [APLORI](http://aplori.org), University of Jos, Nigeria, where I was trained in both Conservation Biology and Ornithology.
+I obtained my bachelor’s degree in Applied Ecology from Abubakar Tafawa Balewa University, Bauchi, Nigeria; and a master's degree in Conservation Biology from the prestigious [A.P. Leventis Ornithological Research Institute (APLORI)](http://aplori.org). 
+Prior to obtaining these degrees, I had the privilege to be an intern at the [APLORI](http://aplori.org), assisting in many types of ecological research. 
+
+I did my National Youth Service (NYSC) teaching biology-related courses at Federal College of Education (FCE), Katsina, Nigeria. During this period, I also volunteered to create awareness on Sustainable Development Goals (SDGs) with the NYSC/SDGs Community Development Service (CDS) group, as a member and later the Secretary-General of the CDS group. Immediately after my NYSC, I got a sponsorship for a master's degree at [APLORI](http://aplori.org), University of Jos, Nigeria, where I was trained in both Conservation Biology and Ornithology.
 
 As a student at APLORI, I was fascinated by birds in-flight and how aircraft are nature-inspired, yet the conflicts that exist between birds and aircraft using the same airspace (bird strikes). So, I decided to study how birds utilize airports landscapes in Nigeria. I studied the factors that attract birds within and around the airports relating it to bird and bird strikes data, and its implication for both avian and aviation safety.
 
 
 > I am research-oriented and very enthusiastic about eduction. I honestly believe that no research question is too complex, and knowledge and research outcomes are meant to be communicated in a simple and engaging way to a wide audience. My interests lie in data science, web development, database management, GIS & remote sensing, wildlife conservation, birds, and birdstrike risk assessment. 
+
 
 I love bird watching, reading, learning programming languages, and building websites like this one.  
 
