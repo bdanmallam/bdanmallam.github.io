@@ -6,7 +6,8 @@ urlcolor: blue
 
 - Evaluation of Vegetation Characteristics and Habitat Utilization by Birds in some Airports in Nigeria (Unpublished master's thesis). *A. P. Leventis Ornithological Research Institute, University of Jos, Nigeria*  <a href="MSc Defense ppt__Danmallam Bello Adamu.pdf#" class="fas fa-download" title="Download presentation as PDF">Download presentation</a>
 
-- COVID-19 Outbreak: Environmental and Socioeconomic Impacts, a Win-Lose Scenerio? (Manuscript in preparation)
+
+- Ringim, A.S., Muhammad, S.I., Bako, L.A., Abubakar, H.M., Isa, S.M., Joseph, D.N., Aliyu, A.B., Bunu, A.S., Abdullahi, H.A., Jalo, M.I., Eveso, J.O., Mathew, E.D., **Danmallam, B.A.,** Mador, U., Paul, J.I., Aminu, I., Lawal, A.I., Ibrahim, J.I., & Ponyil, A.N. Arewa Atlas Team: report of a ve-day 100 pentads survey, with two out of range forms. Biodiversity Observation (in press)
 
 
 - [Effects of Size and Bark Roughness of Parkia biglobosa on Lichen  Colonization: Implication for Conservation](https://doi.org/10.5455/sf.32286)
