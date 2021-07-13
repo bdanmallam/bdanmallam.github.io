@@ -7,7 +7,6 @@ urlcolor: blue
 
 ![](field3.jpg)
 
-
 ## About
 
 
