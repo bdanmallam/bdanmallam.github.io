@@ -5,13 +5,13 @@ urlcolor: blue
 
 ----
 
-![](field3.jpg)
+![](field.jpg)
 
 ## About
 
 
 > I am research-oriented and very enthusiastic about eduction. I honestly believe that no research question or problem is too complex, and knowledge and research outcomes are meant to be communicated in a simple and engaging way to a wide audience. 
-My interests lie in data science, biogeography, macroecology, wildlife conservation, database management, GIS & remote sensing, and web development. 
+My interests lie in conservation science, data science, biogeography, bioinformatics and macroecology, data management, and GIS & remote sensing. 
 
 
 I love bird watching, reading, learning programming languages, and building websites like this one.  
