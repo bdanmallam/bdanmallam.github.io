@@ -12,9 +12,6 @@ navbar:
       href: project.html
     - text: "CV"
       href: resume.html
-    - text: "Download"
-      icon: fa-file-pdf
-      href: cv.html
     - text: "Blog"
       icon: fas fa-blog
       href: Blog.html
