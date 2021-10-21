@@ -8,3 +8,5 @@ file.create('_site.yml')
 #render site
 rmarkdown::render_site()
 
+
+getwd()
