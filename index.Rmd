@@ -10,8 +10,7 @@ urlcolor: blue
 ## About
 
 
-> I am research-oriented and very enthusiastic about eduction. I honestly believe that no research question or problem is too complex, and knowledge and research outcomes are meant to be communicated in a simple and engaging way to a wide audience. 
-My interests lie in conservation science, data science, biogeography, bioinformatics and macroecology, data management, and GIS & remote sensing. 
+> I build databases with SQL (Structured Query Language), manage databases (SQL and NoSQL), and work towards developing efficient and effective tools for data management and visualisation. Currently working as a Data Manager based at A.P. Leventis Ornithological Research Institute (APLORI) for the African Bird Atlas Project.
 
 
 I love bird watching, reading, learning programming languages, and building websites like this one.  

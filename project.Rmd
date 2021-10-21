@@ -1,10 +1,10 @@
 ---
-title: "Publications, Conferences, and Talks"
+title: "Publications/presentations"
 urlcolor: blue
 ---
 
 
-- Evaluation of Vegetation Characteristics and Habitat Utilization by Birds in some Airports in Nigeria (Unpublished master's thesis). *A. P. Leventis Ornithological Research Institute, University of Jos, Nigeria*  <a href="MSc Defense ppt__Danmallam Bello Adamu.pdf#" class="fas fa-download" title="Download presentation as PDF">Download presentation</a>
+- Evaluation of Vegetation Characteristics and Habitat Utilization by Birds in some Airports in Nigeria (Unpublished master's thesis). *A. P. Leventis Ornithological Research Institute, University of Jos, Nigeria* <a href="MSc Defense ppt__Danmallam Bello Adamu.pdf#" class="fas fa-download" title="Download presentation as PDF">Download presentation</a>
 
 
 - Ringim, A.S., Muhammad, S.I., Bako, L.A., Abubakar, H.M., Isa, S.M., Joseph, D.N., Aliyu, A.B., Bunu, A.S., Abdullahi, H.A., Jalo, M.I., Eveso, J.O., Mathew, E.D., **Danmallam, B.A.,** Mador, U., Paul, J.I., Aminu, I., Lawal, A.I., Ibrahim, J.I., & Ponyil, A.N. Arewa Atlas Team: report of a ve-day 100 pentads survey, with two out of range forms. Biodiversity Observation (in press)
@@ -14,9 +14,6 @@ urlcolor: blue
 
 
 - [Presentation: A comparative Study of Tree Vegetation Composition between Fenced and Unfenced area of Sumu wildlife Park, Bauchi State. *The 6th Biennial Conference of Nigerian Tropical Biology Association (NTBA), Dutse, 2019.*](https://ntbaconf2018.wordpress.com/resources/)
-
-
-- Microbes as Agents for Addressing Economic & Security Challenges. *40th Scientific Conference & Annual General Meeting of Nigerian Society for Microbiology, Bauchi, 2017*
 
 
 - Presentation: Value Clarification Promotes a Healthier Future. *The 1st Regional Education Summit on HIV/AIDs in Africa (RESHAA) and Youth Speak out on Reproductive Health. Federal Ministry of Education Abuja, 2011*
