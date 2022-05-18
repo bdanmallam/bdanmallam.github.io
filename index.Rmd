@@ -11,7 +11,7 @@ urlcolor: blue
 
 
 >I obtained a master’s degree in conservation biology and a bachelor’s degree in applied ecology, with experience in working with large biodiversity datasets, teaching, research design, field data collection and analysis, web development, database management, and GIS & remote sensing.
-<br> I build databases with SQL (Structured Query Language), manage databases (SQL and NoSQL), and work towards developing efficient and effective tools for data management and visualisation. Currently working as a Data Manager based at A.P. Leventis Ornithological Research Institute (APLORI) for the African Bird Atlas Project.
+<br> I build databases, manage databases (SQL and NoSQL), and work towards developing efficient and effective tools for data management and visualisation. Currently working as a Data Manager based at A.P. Leventis Ornithological Research Institute (APLORI) for the African Bird Atlas Project.
 
 
 I love bird watching, learning programming languages, and building websites like this one.  
