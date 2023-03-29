@@ -10,11 +10,16 @@ urlcolor: blue
 ## About
 
 
->I obtained a master’s degree in conservation biology and a bachelor’s degree in applied ecology, with experience in working with large biodiversity datasets, teaching, research design, field data collection and analysis, web development, database management, and GIS & remote sensing.
-<br> I build databases, manage databases (SQL and NoSQL), and work towards developing efficient and effective tools for data management and visualisation. Currently working as a Data Manager based at A.P. Leventis Ornithological Research Institute (APLORI) for the African Bird Atlas Project.
+>Welcome to my website! My name is Bello Adamu Danmallam and I am a conservation biologist with a passion for data management and visualization. With a Master's degree in conservation biology and a Bachelor's degree in applied ecology, I have a strong background in working with large biodiversity datasets, teaching, research design, field data collection and analysis, web development, database management, and spatial analysis.
+<br> 
 
+Throughout my career, I have built and managed databases, developed tools for efficient and effective data management and visualization, and contributed to research projects in the field of conservation biology. Currently, I am working as a Data Manager at A.P. Leventis Ornithological Research Institute (APLORI) for the African Bird Atlas Project. In this role, I oversee database management, contribute to the design and implementation of efficient data collection methods, and develop tools for data visualization and analysis.
+<br> 
 
-I love bird watching, learning programming languages, and building websites like this one.  
+In addition to my professional work, I am an avid bird watcher and enjoy learning programming languages and building websites. I am excited to share my knowledge and skills with others who are passionate about biodiversity conservation and data management.
+<br> 
+
+If you have any questions or would like to discuss a potential collaboration, please don't hesitate to contact me. Thank you for visiting my website!
 
 
 
