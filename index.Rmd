@@ -1,5 +1,5 @@
 ---
-title: "Applied Ecology and Conservation"
+title: ""
 urlcolor: blue
 ---
 
