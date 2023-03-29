@@ -1,20 +1,21 @@
 name: "DANMALLAM BELLO"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "DANMALLAM BELLO ADAMU"                             # CHANGE HERE 
+  title: "BELLO ADAMU DANMALLAM"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "HOME"
       icon: fa-home
       href: index.html
-    - text: "Projects"
-      icon: fa-book 
-      href: project.html
     - text: "CV"
+      icon: fa-file 
       href: resume.html
-    - text: "Blog"
-      icon: fas fa-blog
-      href: Blog.html
+#    - text: "Projects"
+#      icon: fa-book 
+#      href: project.html
+#    - text: "Blog"
+#      icon: fas fa-blog
+#      href: Blog.html
   right:
     - text: "Email"
       icon: fa-envelope-o
