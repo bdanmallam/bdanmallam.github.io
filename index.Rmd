@@ -14,7 +14,7 @@ urlcolor: blue
 Throughout my career, I have built and managed databases, developed tools for efficient and effective data management and visualization, and contributed to research projects in the field of conservation biology. Currently, I am working as a Data Manager at A.P. Leventis Ornithological Research Institute (APLORI) for the African Bird Atlas Project. In this role, I oversee database management, contribute to the design and implementation of efficient data collection methods, and develop tools for data visualization and analysis.
 <br> 
 
-In addition to my professional work, I am an avid bird watcher and enjoy learning programming languages and building websites. I am excited to share my knowledge and skills with others who are passionate about biodiversity conservation and data management.
+In addition to my professional work, I am an avid bird watcher and enjoy learning programming languages and building websites. 
 <br> 
 
 If you have any questions or would like to discuss a potential collaboration, please don't hesitate to contact me. Thank you for visiting my website!
